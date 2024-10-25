@@ -1,2 +1,2 @@
 repo where you add subtree git subtree add --prefix=subtree1 https://github.com/wayne6092/ST-Two.git master
-
+changes should be pushed to main repo too!
